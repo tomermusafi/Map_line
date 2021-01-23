@@ -1,0 +1,3 @@
+include ':map_line'
+include ':app'
+rootProject.name = "Map_line"

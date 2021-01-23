@@ -1,0 +1,547 @@
+[
+  {
+    "name": "Jerusalem",
+    "pop": 801000,
+    "location": "https://www.google.com/maps/?q=31.769,35.2163"
+  },
+  {
+    "name": "Tel Aviv",
+    "pop": 432892,
+    "location": "https://www.google.com/maps/?q=32.0809,34.7806"
+  },
+  {
+    "name": "West Jerusalem",
+    "pop": 400000,
+    "location": "https://www.google.com/maps/?q=31.782,35.2196"
+  },
+  {
+    "name": "Haifa",
+    "pop": 267300,
+    "location": "https://www.google.com/maps/?q=32.8184,34.9885"
+  },
+  {
+    "name": "Ashdod",
+    "pop": 224656,
+    "location": "https://www.google.com/maps/?q=31.7921,34.6497"
+  },
+  {
+    "name": "Rishon LeZiyyon",
+    "pop": 220492,
+    "location": "https://www.google.com/maps/?q=31.971,34.7894"
+  },
+  {
+    "name": "Petah Tiqwa",
+    "pop": 200000,
+    "location": "https://www.google.com/maps/?q=32.0871,34.8875"
+  },
+  {
+    "name": "Beersheba",
+    "pop": 186600,
+    "location": "https://www.google.com/maps/?q=31.2518,34.7913"
+  },
+  {
+    "name": "Netanya",
+    "pop": 171676,
+    "location": "https://www.google.com/maps/?q=32.3329,34.8599"
+  },
+  {
+    "name": "Holon",
+    "pop": 165787,
+    "location": "https://www.google.com/maps/?q=32.0103,34.7792"
+  },
+  {
+    "name": "Bnei Brak",
+    "pop": 154400,
+    "location": "https://www.google.com/maps/?q=32.0807,34.8338"
+  },
+  {
+    "name": "Rehovot",
+    "pop": 132671,
+    "location": "https://www.google.com/maps/?q=31.8942,34.812"
+  },
+  {
+    "name": "Bat Yam",
+    "pop": 128979,
+    "location": "https://www.google.com/maps/?q=32.0238,34.7519"
+  },
+  {
+    "name": "Ramat Gan",
+    "pop": 128095,
+    "location": "https://www.google.com/maps/?q=32.0823,34.8106"
+  },
+  {
+    "name": "Ashkelon",
+    "pop": 105995,
+    "location": "https://www.google.com/maps/?q=31.6693,34.5715"
+  },
+  {
+    "name": "Jaffa",
+    "pop": 100000,
+    "location": "https://www.google.com/maps/?q=32.0504,34.7522"
+  },
+  {
+    "name": "Modi'in Makkabbim Re'ut",
+    "pop": 88749,
+    "location": "https://www.google.com/maps/?q=31.8939,35.015"
+  },
+  {
+    "name": "Herzliya",
+    "pop": 83600,
+    "location": "https://www.google.com/maps/?q=32.1663,34.8254"
+  },
+  {
+    "name": "Kfar Saba",
+    "pop": 80773,
+    "location": "https://www.google.com/maps/?q=32.175,34.9069"
+  },
+  {
+    "name": "Ra'anana",
+    "pop": 80000,
+    "location": "https://www.google.com/maps/?q=32.1836,34.8739"
+  },
+  {
+    "name": "Hadera",
+    "pop": 75854,
+    "location": "https://www.google.com/maps/?q=32.4419,34.9039"
+  },
+  {
+    "name": "Bet Shemesh",
+    "pop": 67100,
+    "location": "https://www.google.com/maps/?q=31.7307,34.9929"
+  },
+  {
+    "name": "Lod",
+    "pop": 66589,
+    "location": "https://www.google.com/maps/?q=31.9467,34.8903"
+  },
+  {
+    "name": "Nazareth",
+    "pop": 64800,
+    "location": "https://www.google.com/maps/?q=32.6992,35.3048"
+  },
+  {
+    "name": "Modiin Ilit",
+    "pop": 64179,
+    "location": "https://www.google.com/maps/?q=31.9322,35.0442"
+  },
+  {
+    "name": "Ramla",
+    "pop": 63860,
+    "location": "https://www.google.com/maps/?q=31.9292,34.8656"
+  },
+  {
+    "name": "Nahariyya",
+    "pop": 51200,
+    "location": "https://www.google.com/maps/?q=33.0089,35.0981"
+  },
+  {
+    "name": "Qiryat Ata",
+    "pop": 48966,
+    "location": "https://www.google.com/maps/?q=32.8115,35.1132"
+  },
+  {
+    "name": "Givatayim",
+    "pop": 48000,
+    "location": "https://www.google.com/maps/?q=32.0723,34.8125"
+  },
+  {
+    "name": "Qiryat Gat",
+    "pop": 47450,
+    "location": "https://www.google.com/maps/?q=31.61,34.7642"
+  },
+  {
+    "name": "Acre",
+    "pop": 45603,
+    "location": "https://www.google.com/maps/?q=32.9281,35.0765"
+  },
+  {
+    "name": "Eilat",
+    "pop": 45588,
+    "location": "https://www.google.com/maps/?q=29.5581,34.9482"
+  },
+  {
+    "name": "Afula",
+    "pop": 44930,
+    "location": "https://www.google.com/maps/?q=32.6091,35.2892"
+  },
+  {
+    "name": "Karmi'el",
+    "pop": 44382,
+    "location": "https://www.google.com/maps/?q=32.9171,35.305"
+  },
+  {
+    "name": "Hod HaSharon",
+    "pop": 43185,
+    "location": "https://www.google.com/maps/?q=32.1593,34.8932"
+  },
+  {
+    "name": "Umm el Fahm",
+    "pop": 41030,
+    "location": "https://www.google.com/maps/?q=32.5173,35.1535"
+  },
+  {
+    "name": "Tiberias",
+    "pop": 39790,
+    "location": "https://www.google.com/maps/?q=32.7922,35.5312"
+  },
+  {
+    "name": "Qiryat Mozqin",
+    "pop": 39404,
+    "location": "https://www.google.com/maps/?q=32.8371,35.0776"
+  },
+  {
+    "name": "Qiryat Yam",
+    "pop": 39273,
+    "location": "https://www.google.com/maps/?q=32.8497,35.0697"
+  },
+  {
+    "name": "Rosh Ha'Ayin",
+    "pop": 39215,
+    "location": "https://www.google.com/maps/?q=32.0956,34.9566"
+  },
+  {
+    "name": "Ness Ziona",
+    "pop": 38700,
+    "location": "https://www.google.com/maps/?q=31.9293,34.7987"
+  },
+  {
+    "name": "Qiryat Bialik",
+    "pop": 36551,
+    "location": "https://www.google.com/maps/?q=32.8275,35.0858"
+  },
+  {
+    "name": "Ramat HaSharon",
+    "pop": 36137,
+    "location": "https://www.google.com/maps/?q=32.1461,34.8394"
+  },
+  {
+    "name": "Dimona",
+    "pop": 33558,
+    "location": "https://www.google.com/maps/?q=31.0708,35.0327"
+  },
+  {
+    "name": "Et Taiyiba",
+    "pop": 32978,
+    "location": "https://www.google.com/maps/?q=32.2662,35.0089"
+  },
+  {
+    "name": "Yavne",
+    "pop": 31774,
+    "location": "https://www.google.com/maps/?q=31.8781,34.7398"
+  },
+  {
+    "name": "Or Yehuda",
+    "pop": 30802,
+    "location": "https://www.google.com/maps/?q=32.0292,34.8579"
+  },
+  {
+    "name": "Yehud-Monosson",
+    "pop": 29312,
+    "location": "https://www.google.com/maps/?q=32.0284,34.8796"
+  },
+  {
+    "name": "Safed",
+    "pop": 27816,
+    "location": "https://www.google.com/maps/?q=32.9646,35.496"
+  },
+  {
+    "name": "Gedera",
+    "pop": 26217,
+    "location": "https://www.google.com/maps/?q=31.8146,34.78"
+  },
+  {
+    "name": "Tamra",
+    "pop": 25917,
+    "location": "https://www.google.com/maps/?q=32.853,35.1987"
+  },
+  {
+    "name": "Yehud",
+    "pop": 25600,
+    "location": "https://www.google.com/maps/?q=32.0332,34.8909"
+  },
+  {
+    "name": "Daliyat al Karmel",
+    "pop": 25000,
+    "location": "https://www.google.com/maps/?q=32.6938,35.0469"
+  },
+  {
+    "name": "Migdal Ha`Emeq",
+    "pop": 24800,
+    "location": "https://www.google.com/maps/?q=32.676,35.2399"
+  },
+  {
+    "name": "Sakhnin",
+    "pop": 24596,
+    "location": "https://www.google.com/maps/?q=32.8642,35.2971"
+  },
+  {
+    "name": "Netivot",
+    "pop": 24564,
+    "location": "https://www.google.com/maps/?q=31.423,34.5891"
+  },
+  {
+    "name": "Mevasseret Ziyyon",
+    "pop": 24409,
+    "location": "https://www.google.com/maps/?q=31.8019,35.1507"
+  },
+  {
+    "name": "Ofaqim",
+    "pop": 24311,
+    "location": "https://www.google.com/maps/?q=31.3141,34.6203"
+  },
+  {
+    "name": "Arad",
+    "pop": 23700,
+    "location": "https://www.google.com/maps/?q=31.2588,35.2128"
+  },
+  {
+    "name": "Gan Yavne",
+    "pop": 22453,
+    "location": "https://www.google.com/maps/?q=31.7874,34.7066"
+  },
+  {
+    "name": "Qiryat Shemona",
+    "pop": 22035,
+    "location": "https://www.google.com/maps/?q=33.2073,35.5721"
+  },
+  {
+    "name": "Kefar Yona",
+    "pop": 21611,
+    "location": "https://www.google.com/maps/?q=32.3167,34.9351"
+  },
+  {
+    "name": "maalot Tarshiha",
+    "pop": 21400,
+    "location": "https://www.google.com/maps/?q=33.0167,35.2667"
+  },
+  {
+    "name": "Nesher",
+    "pop": 21245,
+    "location": "https://www.google.com/maps/?q=32.7662,35.0443"
+  },
+  {
+    "name": "Tirah",
+    "pop": 20786,
+    "location": "https://www.google.com/maps/?q=32.2341,34.9502"
+  },
+  {
+    "name": "Shoham",
+    "pop": 20740,
+    "location": "https://www.google.com/maps/?q=31.9987,34.9456"
+  },
+  {
+    "name": "Sederot",
+    "pop": 20228,
+    "location": "https://www.google.com/maps/?q=31.525,34.5969"
+  },
+  {
+    "name": "Rahat",
+    "pop": 19586,
+    "location": "https://www.google.com/maps/?q=31.3955,34.757"
+  },
+  {
+    "name": "Tirat Karmel",
+    "pop": 18993,
+    "location": "https://www.google.com/maps/?q=32.7602,34.9718"
+  },
+  {
+    "name": "Maghar",
+    "pop": 18915,
+    "location": "https://www.google.com/maps/?q=32.8898,35.407"
+  },
+  {
+    "name": "Giv'at Shmuel",
+    "pop": 18500,
+    "location": "https://www.google.com/maps/?q=32.0782,34.8486"
+  },
+  {
+    "name": "Ariel",
+    "pop": 17668,
+    "location": "https://www.google.com/maps/?q=32.1065,35.1845"
+  },
+  {
+    "name": "Kafr Kanna",
+    "pop": 17606,
+    "location": "https://www.google.com/maps/?q=32.7466,35.3424"
+  },
+  {
+    "name": "Judeida Makr",
+    "pop": 17530,
+    "location": "https://www.google.com/maps/?q=32.9282,35.1571"
+  },
+  {
+    "name": "Kafr Qasim",
+    "pop": 17303,
+    "location": "https://www.google.com/maps/?q=32.1141,34.9762"
+  },
+  {
+    "name": "Qalansuwa",
+    "pop": 16898,
+    "location": "https://www.google.com/maps/?q=32.2849,34.9811"
+  },
+  {
+    "name": "Bet She'an",
+    "pop": 16800,
+    "location": "https://www.google.com/maps/?q=32.4973,35.4963"
+  },
+  {
+    "name": "Azor",
+    "pop": 16201,
+    "location": "https://www.google.com/maps/?q=32.0243,34.8063"
+  },
+  {
+    "name": "Ganei Tikva",
+    "pop": 16053,
+    "location": "https://www.google.com/maps/?q=32.0597,34.8732"
+  },
+  {
+    "name": "Er Reina",
+    "pop": 15621,
+    "location": "https://www.google.com/maps/?q=32.7234,35.3162"
+  },
+  {
+    "name": "Even Yehuda",
+    "pop": 15221,
+    "location": "https://www.google.com/maps/?q=32.2696,34.8876"
+  },
+  {
+    "name": "Kafr Manda",
+    "pop": 15014,
+    "location": "https://www.google.com/maps/?q=32.8103,35.2601"
+  },
+  {
+    "name": "Iksal",
+    "pop": 11398,
+    "location": "https://www.google.com/maps/?q=32.6816,35.3237"
+  },
+  {
+    "name": "Rekhasim",
+    "pop": 10682,
+    "location": "https://www.google.com/maps/?q=32.7491,35.099"
+  },
+  {
+    "name": "Nahf",
+    "pop": 10105,
+    "location": "https://www.google.com/maps/?q=32.9344,35.3168"
+  },
+  {
+    "name": "Beit Jann",
+    "pop": 10002,
+    "location": "https://www.google.com/maps/?q=32.9646,35.3815"
+  },
+  {
+    "name": "Herzliya Pituah",
+    "pop": 10000,
+    "location": "https://www.google.com/maps/?q=32.1741,34.8028"
+  },
+  {
+    "name": "El Fureidis",
+    "pop": 9999,
+    "location": "https://www.google.com/maps/?q=32.5981,34.9515"
+  },
+  {
+    "name": "Kfar Yasif",
+    "pop": 9587,
+    "location": "https://www.google.com/maps/?q=32.9545,35.1623"
+  },
+  {
+    "name": "Kabul",
+    "pop": 9497,
+    "location": "https://www.google.com/maps/?q=32.8686,35.2117"
+  },
+  {
+    "name": "Tel Mond",
+    "pop": 8725,
+    "location": "https://www.google.com/maps/?q=32.25,34.9174"
+  },
+  {
+    "name": "Yeroham",
+    "pop": 8631,
+    "location": "https://www.google.com/maps/?q=30.9882,34.9318"
+  },
+  {
+    "name": "Deir Hanna",
+    "pop": 8417,
+    "location": "https://www.google.com/maps/?q=32.862,35.3637"
+  },
+  {
+    "name": "Dabburiya",
+    "pop": 8305,
+    "location": "https://www.google.com/maps/?q=32.6926,35.3712"
+  },
+  {
+    "name": "Mazkeret Batya",
+    "pop": 8034,
+    "location": "https://www.google.com/maps/?q=31.8536,34.8465"
+  },
+  {
+    "name": "Bnei Ayish",
+    "pop": 7920,
+    "location": "https://www.google.com/maps/?q=31.7833,34.75"
+  },
+  {
+    "name": "Bu`eina",
+    "pop": 7900,
+    "location": "https://www.google.com/maps/?q=32.8064,35.3649"
+  },
+  {
+    "name": "Jaljulya",
+    "pop": 7505,
+    "location": "https://www.google.com/maps/?q=32.1547,34.9537"
+  },
+  {
+    "name": "Bir el Maksur",
+    "pop": 7106,
+    "location": "https://www.google.com/maps/?q=32.7773,35.2207"
+  },
+  {
+    "name": "Bet Dagan",
+    "pop": 7099,
+    "location": "https://www.google.com/maps/?q=32.0019,34.8298"
+  },
+  {
+    "name": "Basmat Tab`un",
+    "pop": 6300,
+    "location": "https://www.google.com/maps/?q=32.739,35.1572"
+  },
+  {
+    "name": "Pardesiyya",
+    "pop": 6254,
+    "location": "https://www.google.com/maps/?q=32.3058,34.9091"
+  },
+  {
+    "name": "Lehavim",
+    "pop": 6000,
+    "location": "https://www.google.com/maps/?q=31.3728,34.8162"
+  },
+  {
+    "name": "Abu Ghaush",
+    "pop": 5707,
+    "location": "https://www.google.com/maps/?q=31.8059,35.1093"
+  },
+  {
+    "name": "Kefar Weradim",
+    "pop": 5608,
+    "location": "https://www.google.com/maps/?q=32.9939,35.2779"
+  },
+  {
+    "name": "Shelomi",
+    "pop": 5608,
+    "location": "https://www.google.com/maps/?q=33.0722,35.1445"
+  },
+  {
+    "name": "Ramat Yishay",
+    "pop": 5431,
+    "location": "https://www.google.com/maps/?q=32.7044,35.1707"
+  },
+  {
+    "name": "Hurfeish",
+    "pop": 5308,
+    "location": "https://www.google.com/maps/?q=33.0171,35.3484"
+  },
+  {
+    "name": "Buqei`a",
+    "pop": 5200,
+    "location": "https://www.google.com/maps/?q=32.9775,35.3335"
+  }
+]
