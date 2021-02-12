@@ -1,7 +1,7 @@
 # Map_line library
 [![](https://jitpack.io/v/tomermusafi/Map_line.svg)](https://jitpack.io/#tomermusafi/Map_line)
 
- :map: With this libray you can create route and heatmaps in simple way :map:
+ With this libray you can create route and heatmaps in simple way
 
 ## Prerequisites
 ```java
