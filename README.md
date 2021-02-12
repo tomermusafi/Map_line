@@ -63,12 +63,13 @@ Add this to your module's build.gradle file (make sure the version matches the J
 ```
 
 ### ScreenShoot
-<img src="https://drive.google.com/uc?export=view&id=1TkjEVocZaA9J-RtG_5S_oPmbj5ERTC5v" alt="drawing" width="300"/>
 
-![](WhatsApp Video 2021-01-23 at 15.33.45.gif)
-
-
+#### Heatmap
 ![Alt Text](https://github.com/tomermusafi/Map_line/blob/master/WhatsApp%20Video%202021-01-23%20at%2015.33.45.gif)
+
+#### Route
+![Alt Text](https://github.com/tomermusafi/Map_line/blob/master/WhatsApp%20Video%202021-01-23%20at%2015.39.41.gif)
+
 
 
 
