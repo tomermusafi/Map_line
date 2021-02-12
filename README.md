@@ -1,5 +1,5 @@
 # Map_line library
-[![](https://jitpack.io/v/tomermusafi/Y4S1T1.svg)](https://jitpack.io/#tomermusafi/Y4S1T1)
+[![](https://jitpack.io/v/tomermusafi/Map_line.svg)](https://jitpack.io/#tomermusafi/Map_line)
 
  :map: With this libray you can create route and heatmaps in simple way :map:
 
@@ -17,7 +17,7 @@ allprojects {
 Add this to your module's build.gradle file (make sure the version matches the JitPack badge above):
  ```java
   dependencies {
-	        implementation 'com.github.tomermusafi:Y4S1T1:01.00.01'
+	        implementation 'com.github.tomermusafi:Map_line:Tag'
 	}
 ```
 
