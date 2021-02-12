@@ -65,7 +65,7 @@ Add this to your module's build.gradle file (make sure the version matches the J
 ### ScreenShoot
 <img src="https://drive.google.com/uc?export=view&id=1TkjEVocZaA9J-RtG_5S_oPmbj5ERTC5v" alt="drawing" width="300"/>
 
-<img src="https://drive.google.com/uc?export=view&id=16BApSdcaRsdQXCsXdUpohQTRjtdVwdj6" alt="drawing" width="300"/>
+<img src="https://drive.google.com/file/d/16BApSdcaRsdQXCsXdUpohQTRjtdVwdj6/view?usp=sharing" alt="drawing" width="300"/>
 
 
 
